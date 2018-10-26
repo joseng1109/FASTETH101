@@ -34,4 +34,4 @@ geth --identity "MyNodeName" --genesis CustomGenesis.json --rpc --rpcport "8000"
 o	geth attach http://127.0.0.1:8543
 
 
-g
+
