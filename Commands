@@ -21,7 +21,7 @@
 •	Instantiate data directory 
 o	$ geth --port 3000 --networkid 58343 --nodiscover --datadir=./blkchain --maxpeers=0  
 --rpc --rpcport 8543 --rpcaddr 127.0.0.1 --rpccorsdomain "*" --rpcapi 
-
+"eth,net,web3,personal,miner"
 
 •	Start Ethereum peer node OPEN NEW Terminal
 o	geth attach http://127.0.0.1:8543
